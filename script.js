@@ -12,7 +12,7 @@ function loop() {
     contexto.drawImage(
         sprites,
         0, 0, //sprite x e sprite y
-        35, 35, //tamanho do recorte na sprite
+        40, 45, //tamanho do recorte na sprite
         10, 50,
         33, 24,
     );
